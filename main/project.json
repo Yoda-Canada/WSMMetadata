@@ -1,8 +1,0 @@
-{
-	"name": "wsm-project",
-	"version": "main-1.0.0",
-	"dependencies": {
-		"commonModul": "common@release-1.0.0",
-		"microsoftModul": "microsoft@release-1.0.0"
-	}
-}
