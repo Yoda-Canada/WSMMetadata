@@ -1,0 +1,9 @@
+{
+	"name": "WSMMetadata",
+	"version": "release-1.0.0",
+	"dependencies": {
+    "common": "",
+    "microsoft":""
+
+	}
+}
