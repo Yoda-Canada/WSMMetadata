@@ -2,8 +2,7 @@
 	"name": "WSMMetadata",
 	"version": "release-1.0.0",
 	"dependencies": {
-    "common": "",
-    "microsoft":""
-
+    		"common": "https://github.com/Yoda-Canada/commonMetadata.git",
+    		"microsoft":"https://github.com/Yoda-Canada/microsoftMetadata.git"
 	}
 }
